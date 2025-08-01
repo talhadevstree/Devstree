@@ -1,6 +1,6 @@
 string = "HelloWorld"
 int = 123
-float = 10.5
+float = 10.3
 
 
 print("Type is ",type(string), "Value is", string)

@@ -1,2 +1,2 @@
 Hi I am Talha ! 
-I started my python journey at Devstree 
+I started my python journey at Devstree IT

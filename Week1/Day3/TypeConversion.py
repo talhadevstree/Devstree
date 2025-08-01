@@ -8,7 +8,7 @@ int1 = 34
 print("From Integer to Float:",float(int1))
 
 # # int to string
-    
+
 int2 = "hello"
 strv = str(int2)
 print("From Integer to String:",strv)

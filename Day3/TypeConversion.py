@@ -12,7 +12,6 @@ int2 = "hello"
 strv = str(int2)
 print("From Integer to String:",strv)
 
-
 # handle conversion errors
 try:
     str0 = "7654"

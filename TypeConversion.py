@@ -1,4 +1,4 @@
-# #str to int
+# #str too int
 str1 = "555"
 print("From string to integer:",int(str1))
 # # #int to float

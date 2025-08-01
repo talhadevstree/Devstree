@@ -19,4 +19,4 @@ try:
     print(int(str0))
     print("Convertion successful")
 except:
-    print("Failed to convert ")
+    print("Failed to convert")

@@ -1,6 +1,6 @@
 phonebook = []
 while True:
-    choose = input("You Want to store 'Data' or 'Display':")
+    choose = input("You Want to Store 'Data' or 'Display':")
 
     if choose == 'Data':
         name = input("Enter a Name:")

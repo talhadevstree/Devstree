@@ -1,9 +1,10 @@
+
 personal_info={
     "name":"Talha",
     "age":19,
     "contact_no":8123234997,
     "location":"Ahmedabad",
-    "height":'160.5'
+    "height":160.5
 }
 
 print("Personal Information:")

@@ -20,7 +20,7 @@ while True:
             else:
                 menu_system.append(item)
                 print("Item added in menu system!")
-            
+        
 
     elif choice == '2': #display
         if not menu_system:

@@ -11,7 +11,7 @@ rows = int(input("Enter Your Number of Rows:"))
 if choice == 'Triangle':
     for i in range(rows):
         for j in range(i + 1):
-            print("*" , end="")
+            print("*", end="")
         print()
 elif choice == 'Diamond':
     for i in range(1, rows + 1):

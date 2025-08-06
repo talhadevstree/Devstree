@@ -12,7 +12,7 @@ def circle(radius):
 print("AREA CALCULATIONS:")
 print(areaofsquare(3))
 print(reactangle(3 , 9))
-print(triangle(10 , 19))
+print(triangle(10 ,19))
 print(circle(12))
 
 def kelvintofarhenit(kelvin):

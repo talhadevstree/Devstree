@@ -14,5 +14,5 @@ def fibonacci(n):
         return fibonacci(n-1)+fibonacci(n-2) 
 num = int(input("Enter your number:"))
 for i in range(num):
-    print(fibonacci(i), end=" ")
+    print(fibonacci(i),end=" ")
 

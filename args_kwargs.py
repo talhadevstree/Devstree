@@ -4,7 +4,7 @@ print(greet("world"))
 
 def add(*args):
     return max(args)
-print(add(1,3,5))
+print(add(1,3,6))
 
 def abcd(**kwargs):
     print("kwargs:", kwargs)

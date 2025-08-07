@@ -6,7 +6,7 @@ class banka():
         print(f"{amount} deposit is added in BankAccount!")
     def withdraw(self , amount):
         if amount > self.balance:
-            print("Insufficient fund")
+            print("Insufficient Fund")
         else:
             self.balance-=amount
             print(f"{self.balance} Amount Successfully withdraw from BankAccount")

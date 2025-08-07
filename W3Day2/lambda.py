@@ -8,5 +8,5 @@ even = list(filter(lambda x: x % 2 == 0, nums))
 print("Filter Element",even)  
 
 data = [(1, 3), (2, 1), (4, 2)]
-sorted = sorted(data , key=lambda  x:x[1])
+sorted = sorted(data , key=lambda  x : x [1])
 print("Sorted Element",sorted)

@@ -8,6 +8,6 @@ def all(add , sub , mul , a ,b):
     print("add" , add(a,b))
     print("sub", sub(a,b))
     print("mul", mul(a,b))
-all(add, sub , mul ,4,5)
+all(add, sub , mul ,4,9)
 
     

@@ -1,11 +1,11 @@
 import time
 #time decorator 
 def time_decorator(funca):
-    def wrapper(*args ,**kwargs):
+    def wrapper(*args , **kwargs):
         start = time.time()
         result = funca(*args , **kwargs)
         end = time.time()
-        print(f"{funca.__name__} ran in {end  - start:.2f} {kwargs} seconds ")
+        print(f"{funca.__name__} run in {end  - start:.2f} {kwargs} seconds ")
         return result
     return wrapper
 @time_decorator

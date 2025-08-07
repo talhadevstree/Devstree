@@ -13,10 +13,11 @@ class Student:
             print(f"{avg:.0f} average Grade")
     def display_grade(self):
         if self.grades:
-            print(f"{self.name} has this grade ==>{self.grades}")
+            print(f"{self.name} has this Grade ==>{self.grades}")
 g = Student("John")
 grade1 = int(input("Enter grade:"))
 grade2 = int(input("Enter grade:"))
 g.add_grades(grade1 and grade2)
 g.avg_grade()
 g.display_grade()
+

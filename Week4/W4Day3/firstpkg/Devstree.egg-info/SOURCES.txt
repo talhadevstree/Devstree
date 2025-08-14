@@ -1,0 +1,8 @@
+README.md
+setup.py
+Devstree.egg-info/PKG-INFO
+Devstree.egg-info/SOURCES.txt
+Devstree.egg-info/dependency_links.txt
+Devstree.egg-info/top_level.txt
+firstpkg/__init__.py
+firstpkg/greeter.py

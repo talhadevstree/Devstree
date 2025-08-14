@@ -1,0 +1,16 @@
+{
+    "user": {
+        "profile1": {
+            "name": "john",
+            "email": "hello@gmail.com"
+        },
+        "profile2": {
+            "name": "hi",
+            "email": "hi12@gmail.com"
+        },
+        "profile3": {
+            "name": "john",
+            "email": "john001@gmail.com"
+        }
+    }
+}

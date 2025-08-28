@@ -1,0 +1,14 @@
+{
+    "app":"myapp",
+    "version":1.0,
+    "database":{
+        "host":"localhost",
+        "user":"root",
+        "port":"5689",
+        "db_name":"mydb"
+    },
+    "security":{
+        "host":"localhost",
+        "jwt_expires":"60min"
+    }
+}

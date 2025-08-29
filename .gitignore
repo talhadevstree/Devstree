@@ -1,0 +1,15 @@
+# Ignore everything by default
+*
+
+# But keep these
+!.gitignore
+!db.py
+!main.py
+!models.py
+!myexpense.db
+!readme.md
+!requirements.txt
+!services/
+!tests/
+!__pycache__/
+!.env

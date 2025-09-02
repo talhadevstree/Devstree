@@ -1,0 +1,11 @@
+# Ignore everything
+*
+
+# But keep these
+!.gitignore
+!main.py
+!Readme.md
+!db/
+!menumodel/
+!ordermodel/
+!usermodel/

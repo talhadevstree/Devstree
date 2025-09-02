@@ -34,7 +34,7 @@ def register(user: Registeruser, db: Session = Depends(get_db)):
     if db_user:
         raise HTTPException(status_code=400, detail="User Already Register")
 
-    # creating a hash password
+    # creating a hash pass
     hash_pass = pwd_context.hash(user.password)
     user.password = hash_pass
     # create the new user if the user if not register
